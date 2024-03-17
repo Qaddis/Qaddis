@@ -14,13 +14,13 @@ My name's Svyatoslav aka Qaddis.
 ![Vue.js](https://img.shields.io/badge/-Vue.js-171717?style=for-the-badge&logo=vuedotjs)
 ![Node.js](https://img.shields.io/badge/-Node.js-171717?style=for-the-badge&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/-Express-171717?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-171717?style=for-the-badge&logo=mongodb)
 
 ### ⚙️ Tools:
 
 ![VS Code](https://img.shields.io/badge/-VS_Code-171717?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-171717?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Blender](https://img.shields.io/badge/-Blender-171717?style=for-the-badge&logo=blender)
+![MongoDB](https://img.shields.io/badge/-MongoDB-171717?style=for-the-badge&logo=mongodb)
 ![Arduino](https://img.shields.io/badge/-Arduino-171717?style=for-the-badge&logo=arduino&logoColor=00878F)
 ![Git](https://img.shields.io/badge/-Git-171717?style=for-the-badge&logo=git)
 
