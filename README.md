@@ -23,15 +23,12 @@
 ![SCSS](https://img.shields.io/badge/-scss-171717?style=for-the-badge&logo=sass)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-171717?style=for-the-badge&logo=bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-171717?style=for-the-badge&logo=javascript)
-
 ![React](https://img.shields.io/badge/-React-171717?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux_Toolkit-171717?style=for-the-badge&logo=redux&logoColor=764ABC)
-
 ![Vue.js](https://img.shields.io/badge/-Vue.js-171717?style=for-the-badge&logo=vuedotjs)
 ![Node.js](https://img.shields.io/badge/-Node.js-171717?style=for-the-badge&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/-Express-171717?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-171717?style=for-the-badge&logo=mongodb)
-
 ![Python](https://img.shields.io/badge/-Python-171717?style=for-the-badge&logo=python)
 ![Arduino](https://img.shields.io/badge/-Arduino-171717?style=for-the-badge&logo=arduino&logoColor=00878F)
 
