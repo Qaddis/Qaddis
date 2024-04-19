@@ -37,7 +37,7 @@
 ![VS Code](https://img.shields.io/badge/-VS_Code-171717?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-171717?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Blender](https://img.shields.io/badge/-Blender-171717?style=for-the-badge&logo=blender)
-![Obsidian](https://img.shields.io/badge/-Obdisian-171717?style=for-the-badge&logo=Obsidian&logoColor=7C3AED)
+![Obsidian](https://img.shields.io/badge/-Obsidian-171717?style=for-the-badge&logo=Obsidian&logoColor=7C3AED)
 ![Git](https://img.shields.io/badge/-Git-171717?style=for-the-badge&logo=git)
 
 ### 📱 Соц. сети:
