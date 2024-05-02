@@ -1,6 +1,6 @@
 ![Header](https://github.com/Qaddis/Qaddis/blob/main/assets/Banner.png)
 
-<h2 align="center">👋Привет! Я начинающий full-stack веб разработчик</h1>
+<h2 align="center">👋Привет! Я начинающий full-stack веб разработчик</h2>
 
 ### 🧑🏼‍💻 Обо мне:
 
@@ -8,7 +8,7 @@
 
 Впервые я заинтересовался программированием в 2020 году.
 В том же году я начал проходить курс по Python от онлайн-школы _itland.online_ , на котором я изучил основы и ООП, а так же несколько небольших библиотек.
-Однако курс не закончил и забросил программирование, заинтересовавшись 3д моделированием в Magica Voxel и Blender.
+Однако курс не закончил и забросил программирование, заинтересовавшись 3д моделированием в _Magica Voxel_ и _Blender_.
 
 Спустя некоторое время я снова заинтересовался программированием, а особенно веб-разработкой.
 В октябре 2022 года я начал изучать HTML и CSS по гайдам на YouTube, а спустя месяц поступил на курс ["Fullstack-разработчик: от собственного сайта до полноценного web-приложения"](https://github.com/Qaddis/Qaddis/blob/main/assets/certificate.pdf),
@@ -27,8 +27,8 @@
 ![Redux](https://img.shields.io/badge/-Redux_Toolkit-171717?style=for-the-badge&logo=redux&logoColor=764ABC)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-171717?style=for-the-badge&logo=vuedotjs)
 ![Node.js](https://img.shields.io/badge/-Node.js-171717?style=for-the-badge&logo=nodedotjs)
-![Express](https://img.shields.io/badge/-Express-171717?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-171717?style=for-the-badge&logo=mongodb)
+![Express](https://img.shields.io/badge/-Express-171717?style=for-the-badge&logo=express)
 ![Python](https://img.shields.io/badge/-Python-171717?style=for-the-badge&logo=python)
 ![Arduino](https://img.shields.io/badge/-Arduino-171717?style=for-the-badge&logo=arduino&logoColor=00878F)
 
@@ -36,6 +36,7 @@
 
 ![VS Code](https://img.shields.io/badge/-VS_Code-171717?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-171717?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![PyCharm](https://img.shields.io/badge/-PyCharm-171717?style=for-the-badge&logo=PyCharm&logoColor=C4E45B)
 ![Blender](https://img.shields.io/badge/-Blender-171717?style=for-the-badge&logo=blender)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-171717?style=for-the-badge&logo=Obsidian&logoColor=7C3AED)
 ![Git](https://img.shields.io/badge/-Git-171717?style=for-the-badge&logo=git)
