@@ -1,6 +1,6 @@
 [![HeaderBanner](https://github.com/qaddis/qaddis/blob/main/assets/Banner.png)](https://github.com/qaddis/qaddis/blob/main/assets/Banner.png)
 
-<h2 style="text-align: center">
+<h2 align="center">
 👋Привет! Я начинающий Front-end разработчик
 </h2>
 
@@ -61,10 +61,6 @@
 
 ### 📊 Статистика
 
-<div style="display: flex; flex-direction: column; align-items: center; row-gap: 20px">
-
-![TopLangStats](https://github-readme-stats.vercel.app/api/top-langs/?username=qaddis&langs_count=6&layout=compact&theme=catppuccin_mocha&hide_border=true&card_width=500%&locale=ru)
+![TopLangStats](https://github-readme-stats.vercel.app/api/top-langs/?username=qaddis&langs_count=6&layout=compact&theme=catppuccin_mocha&hide_border=true&card_width=800%&locale=ru)
 
 ![ActivityStats](https://github-readme-activity-graph.vercel.app/graph?username=qaddis&hide_border=true&title_color=94E2D5&bg_color=1e1e2e&point=74c7ec&line=89b4fa&color=b4befe&custom_title=График%20активности)
-
-</div>
