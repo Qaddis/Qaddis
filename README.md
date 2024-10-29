@@ -1,7 +1,7 @@
 [![HeaderBanner](https://github.com/qaddis/qaddis/blob/main/assets/Banner.png)](https://qaddis.vercel.app)
 
 <h2 align="center">
-👋Привет! Я начинающий Front-end разработчик
+👋Привет! Я начинающий Full-stack разработчик
 </h2>
 
 ### 🧑🏼‍💻 Обо мне
