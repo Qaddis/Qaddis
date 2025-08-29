@@ -6,33 +6,44 @@
 
 ### 🧑🏼‍💻 Обо мне
 
-Меня зовут Святослав, aka Qaddis, и мне 17 лет.
+Меня зовут Святослав, aka Qaddis, мне 18 лет.
 
-Впервые я заинтересовался программированием в 2020 году.
-В том же году я начал проходить курс по Python от онлайн-школы _itland.online_ , на котором я изучил основы и ООП, а так же несколько небольших библиотек.
-Однако курс не закончил и забросил программирование.
+Подробнее ознакомиться с моими проектами вы можете на моём [<ins>**сайте-портфолио**</ins>](https://qaddis.vercel.app/) или просто просмотрев мои репозитории 🙃
 
-Спустя некоторое время я снова заинтересовался программированием, а особенно веб-разработкой.
-В октябре 2022 года я поступил на курс ["Fullstack-разработчик: от собственного сайта до полноценного web-приложения"](https://github.com/Qaddis/Qaddis/blob/main/assets/certificate.pdf),
-который окончил в июне 2023.
+- В _октябре 2022_ года поступил на курс **"Fullstack-разработчик: от собственного сайта до полноценного web-приложения"** от **МШП**, который окончил в _июне 2023_ ([\*_**сертификат**_\*](https://github.com/Qaddis/Qaddis/blob/main/assets/certificate_mshp.pdf))
 
-С тех пор я активно изучаю разные фреймворки и библиотеки, а так же создаю новые интересные проекты.
+- В _марте 2025_ года стал **призёром III степени** олимпиады по промышленной разработке **PROD** ([\*_**сертификат**_\*](https://github.com/Qaddis/Qaddis/blob/main/assets/certificate_prod.pdf))
+
+- С _августа 2025_ занимаю должность **Back-end разработчика** в **Millida**
+
+- С _сентября 2025_ года студент **ПетрГУ** по направлению **"Проектирование информационных систем в экономике"**
 
 ---
 
 ### 💻 Технологии
 
 ![HTML](https://img.shields.io/badge/-HTML-212121?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-212121?style=for-the-badge&logo=css3&logoColor=1572B6)
+![CSS](https://img.shields.io/badge/-CSS-212121?style=for-the-badge&logo=css&logoColor=663399)
 ![SCSS](https://img.shields.io/badge/-scss-212121?style=for-the-badge&logo=sass)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-212121?style=for-the-badge&logo=bootstrap)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-212121?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-212121?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-212121?style=for-the-badge&logo=python)
+
 ![React](https://img.shields.io/badge/-React-212121?style=for-the-badge&logo=react)
 ![Next](https://img.shields.io/badge/-Next.js-212121?style=for-the-badge&logo=nextdotjs)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-212121?style=for-the-badge&logo=vuedotjs)
+![Nest.js](https://img.shields.io/badge/-Nest.js-212121?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+
 ![Node.js](https://img.shields.io/badge/-Node.js-212121?style=for-the-badge&logo=nodedotjs)
+![Bun](https://img.shields.io/badge/-Bun-212121?style=for-the-badge&logo=bun)
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-212121?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-212121?style=for-the-badge&logo=mongodb)
+
+![Prisma](https://img.shields.io/badge/-Prisma-212121?style=for-the-badge&logo=prisma)
+![Mongoose](https://img.shields.io/badge/-Mongoose-212121?style=for-the-badge&logo=mongoose&logoColor=880000)
 
 ---
 
@@ -43,6 +54,7 @@
 ![Blender](https://img.shields.io/badge/-Blender-212121?style=for-the-badge&logo=blender)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-212121?style=for-the-badge&logo=Obsidian&logoColor=7C3AED)
 ![Git](https://img.shields.io/badge/-Git-212121?style=for-the-badge&logo=git)
+![pnpm](https://img.shields.io/badge/-pnpm-212121?style=for-the-badge&logo=pnpm)
 
 ---
 
