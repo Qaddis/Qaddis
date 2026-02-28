@@ -90,6 +90,11 @@
 
 ### 📊 Статистика
 
-![StreakStats](https://github-readme-stats-fast.vercel.app/api/streak/?username=Qaddis&theme=catppuccin_mocha&hide_border=true)
 ![ActivityStats](https://github-readme-activity-graph.vercel.app/graph?username=qaddis&hide_border=true&radius=10&height=350&title_color=94E2D5&bg_color=1e1e2e&point=74c7ec&line=89b4fa&color=b4befe&custom_title=График%20активности)
 ![TopLangStats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Qaddis&langs_count=6&layout=compact&theme=catppuccin_mocha&hide_border=true&card_width=850%&locale=ru)
+
+<div align="center">
+
+![StreakStats](https://github-readme-stats-fast.vercel.app/api/streak/?username=Qaddis&theme=transparent&hide_border=true)
+
+</div>
