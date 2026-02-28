@@ -20,6 +20,8 @@
 
 ### 💻 Технологии
 
+#### 🎨 Front-end
+
 ![HTML](https://img.shields.io/badge/-HTML-212121?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-212121?style=for-the-badge&logo=css&logoColor=663399)
 ![SCSS](https://img.shields.io/badge/-scss-212121?style=for-the-badge&logo=sass)
@@ -27,21 +29,38 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-212121?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-212121?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-212121?style=for-the-badge&logo=python)
 
 ![React](https://img.shields.io/badge/-React-212121?style=for-the-badge&logo=react)
-![Next](https://img.shields.io/badge/-Next.js-212121?style=for-the-badge&logo=nextdotjs)
-![Vue.js](https://img.shields.io/badge/-Vue.js-212121?style=for-the-badge&logo=vuedotjs)
-![Nest.js](https://img.shields.io/badge/-Nest.js-212121?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+![Next](https://img.shields.io/badge/-Next-212121?style=for-the-badge&logo=nextdotjs)
+![Vue.js](https://img.shields.io/badge/-Vue-212121?style=for-the-badge&logo=vuedotjs)
+![Nuxt](https://img.shields.io/badge/-Nuxt-212121?style=for-the-badge&logo=nuxt)
+
+![Redux](https://img.shields.io/badge/-Redux-212121?style=for-the-badge&logo=redux&logoColor=7247b5)
+![Zustand](https://img.shields.io/badge/-Zustand-212121?style=for-the-badge&logo=zustand)
+![Pinia](https://img.shields.io/badge/-Pinia-212121?style=for-the-badge&logo=pinia)
 
 ![Node.js](https://img.shields.io/badge/-Node.js-212121?style=for-the-badge&logo=nodedotjs)
-![Bun](https://img.shields.io/badge/-Bun-212121?style=for-the-badge&logo=bun)
+
+#### 🖥️ Back-end
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-212121?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-212121?style=for-the-badge&logo=python)
+
+![Nest.js](https://img.shields.io/badge/-Nest.js-212121?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+![Express](https://img.shields.io/badge/-Express-212121?style=for-the-badge&logo=express)
+![Hono](https://img.shields.io/badge/-Hono-212121?style=for-the-badge&logo=hono)
+![FastAPI](https://img.shields.io/badge/-FastAPI-212121?style=for-the-badge&logo=fastapi)
+
+![Prisma](https://img.shields.io/badge/-Prisma-212121?style=for-the-badge&logo=prisma)
+![TypeORM](https://img.shields.io/badge/-TypeORM-212121?style=for-the-badge&logo=typeorm&logoColor=eb3b2b)
+![Mongoose](https://img.shields.io/badge/-Mongoose-212121?style=for-the-badge&logo=mongoose&logoColor=880000)
+![SQLAlchemy](https://img.shields.io/badge/-TypeORM-212121?style=for-the-badge&logo=sqlalchemy&logoColor=cc2e2e)
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-212121?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-212121?style=for-the-badge&logo=mongodb)
 
-![Prisma](https://img.shields.io/badge/-Prisma-212121?style=for-the-badge&logo=prisma)
-![Mongoose](https://img.shields.io/badge/-Mongoose-212121?style=for-the-badge&logo=mongoose&logoColor=880000)
+![Node.js](https://img.shields.io/badge/-Node.js-212121?style=for-the-badge&logo=nodedotjs)
+![Bun](https://img.shields.io/badge/-Bun-212121?style=for-the-badge&logo=bun)
 
 ---
 
@@ -71,6 +90,6 @@
 
 ### 📊 Статистика
 
-![TopLangStats](https://github-readme-stats.vercel.app/api/top-langs/?username=qaddis&langs_count=6&layout=compact&theme=catppuccin_mocha&hide_border=true&card_width=850%&locale=ru)
-
+![StreakStats](https://github-readme-stats-fast.vercel.app/api/streak/?username=Qaddis&theme=catppuccin_mocha&hide_border=true)
 ![ActivityStats](https://github-readme-activity-graph.vercel.app/graph?username=qaddis&hide_border=true&radius=10&height=350&title_color=94E2D5&bg_color=1e1e2e&point=74c7ec&line=89b4fa&color=b4befe&custom_title=График%20активности)
+![TopLangStats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Qaddis&langs_count=6&layout=compact&theme=catppuccin_mocha&hide_border=true&card_width=850%&locale=ru)
